@@ -1,7 +1,7 @@
 {
   "name": "luvit-set",
   "version": "0.0.1",
-  "description": "First attempt at creating an npm-managed luvit module",
+  "description": "Straightforward Lua Set library for Luvit",
   "main": "Set.lua",
   "scripts": {
     "test": "luvit tests/init.lua"
