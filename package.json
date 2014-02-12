@@ -1,0 +1,28 @@
+{
+  "name": "luvit-set",
+  "version": "0.0.1",
+  "description": "First attempt at creating an npm-managed luvit module",
+  "main": "Set.lua",
+  "scripts": {
+    "test": "luvit tests/init.lua"
+  },
+  "devDependencies": {
+    "luvit-test": "~0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wscherphof/luvit-set.git"
+  },
+  "keywords": [
+    "set",
+    "luvit",
+    "lua",
+    "npm"
+  ],
+  "author": "Wouter Scherphof",
+  "license": "LGPL+",
+  "bugs": {
+    "url": "https://github.com/wscherphof/luvit-set/issues"
+  },
+  "homepage": "https://github.com/wscherphof/luvit-set"
+}
