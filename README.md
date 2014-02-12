@@ -3,7 +3,7 @@ Straightforward [Lua](http://www.lua.org/) Set library for [Luvit](http://luvit.
 
 ##Install
 - Download and install [Node.js](http://nodejs.org/download/). Then you have `npm`
-- In the root of your Luvit project, `npm install lua-set`
+- In the root of your Luvit project, `npm install luvit-set`
 
 ##Usage
 Start off with
