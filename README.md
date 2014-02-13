@@ -45,7 +45,7 @@ local list = ilike:tolist() -- {"apples", "bananas"}
 ```
 
 ##Tests
-Run `luvit tests/init.lua`
+`npm test luvit-set`
 
 ##License
 LGPL+; see the `LICENSE` file

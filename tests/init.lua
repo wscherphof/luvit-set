@@ -1,1 +1,1 @@
-require("luvit-test/runner")(__dirname)
+require("luvit-test/runner").run(__dirname)

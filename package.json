@@ -1,13 +1,13 @@
 {
   "name": "luvit-set",
-  "version": "0.0.1-4",
+  "version": "0.0.1-5",
   "description": "Straightforward Lua Set library for Luvit",
   "main": "init.lua",
   "scripts": {
     "test": "luvit tests/init.lua"
   },
   "dependencies": {
-    "luvit-test": "~0.0.1"
+    "luvit-test": "~0.0.2"
   },
   "repository": {
     "type": "git",
